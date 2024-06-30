@@ -25,3 +25,8 @@
 ### Languages:
 - English (B2)
 - Russian (Native)
+
+### Education:
+- [Belarusian State University](https://www.linkedin.com/school/belarusian-state-university/): Bachelor's degree, Physics ITBachelor's degree, Physics IT 2010 - 2015
+- [IT Academy](https://www.linkedin.com/school/it-academy/) Python Automation 2018 - 2019
+- [JS Course Beginner+Advance](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?couponCode=LETSLEARNNOW)
