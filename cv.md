@@ -7,9 +7,9 @@
  * **LinkedIn:** [Vladislav Parhomchik](https://www.linkedin.com/in/parhomchik-vladislav-9b387a150/)
  * **GitHub:** [@VladislavParhomchik](https://github.com/VladislavParhomchik)
 
- ## About
+## About
 
- ### Experience:
+### Experience:
  Test Software Engineer with more then 3 years of total experience in QA.
 - **Programming language:** JavaScript beginner 
 - **QA:** Test Case, Bug Reports, Time Estimating, Web Testing, Database Testing, SQL, Rest Api
